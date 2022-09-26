@@ -34,7 +34,7 @@ $(call inherit-product, vendor/sony/pdx215/pdx215-vendor.mk)
 
 # Boot animation
 TARGET_SCREEN_HEIGHT := 2560
-TARGET_SCREEN_WIDTH := 1096
+TARGET_SCREEN_WIDTH := 1440
 
 # Device uses high-density artwork where available
 PRODUCT_AAPT_CONFIG := normal
