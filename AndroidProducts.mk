@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_venus.mk
+    $(LOCAL_DIR)/aosp_pdx215.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_venus-user \
-    aosp_venus-userdebug \
-    aosp_venus-eng
+    aosp_pdx215-user \
+    aosp_pdx215-userdebug \
+    aosp_pdx215-eng

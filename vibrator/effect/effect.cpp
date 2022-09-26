@@ -28,7 +28,7 @@
  * IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-#define LOG_TAG "libxiaomivibratoreffect"
+#define LOG_TAG "libsonyvibratoreffect"
 
 #include <iostream>
 #include <fstream>
