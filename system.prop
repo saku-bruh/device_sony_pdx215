@@ -57,17 +57,16 @@ persist.vendor.data.mode=concurrent
 persist.vendor.ssr.restart_level=ALL_ENABLE
 
 # SOMC
-ro.semc.ms_type_id=PM-1342-BV
-ro.semc.product.device=BC
-ro.semc.product.model=XQ-BC72
-ro.semc.product.name=Xperia 1 III
-ro.semc.version.fs=GENERIC
-ro.semc.version.sw=1320-5254
-ro.semc.version.sw_revision=61.0.A.23.20
-ro.semc.version.sw_variant=CHINA-C2
-ro.semc.version.sw_type=user
-vendor.somc.syscore.variant.name=CHINA-C2
-ro.boot.hardware.sku=XQ-BC72
+# ro.semc.ms_type_id=PM-1342-BV
+# ro.semc.product.device=BC
+# ro.semc.product.model=XQ-BC52
+# ro.semc.product.name=Xperia 1 III
+# ro.semc.version.fs=GENERIC
+# ro.semc.version.fs_revision=61.1.A.11.36
+# ro.semc.version.sw=1320-5254
+# ro.semc.version.sw_revision=61.1.A.11.36
+# ro.semc.version.sw_type=user
+# ro.semc.version.sw_variant=GLOBAL-C2
 
 # Vendor
 ro.vendor.qti.va_aosp.support=1
