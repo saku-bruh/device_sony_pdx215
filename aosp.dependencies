@@ -2,6 +2,6 @@
   {
     "repository": "hardware_sony",
     "target_path": "hardware/sony",
-    "branch":"lineage-20.0"
+    "branch":"lineage-19.1"
   }
 ]
