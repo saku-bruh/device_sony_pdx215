@@ -251,5 +251,4 @@ CONFIG_ACS := true
 CONFIG_IEEE80211AX := true
 
 # Inherit proprietary blobs
-include vendor/sony/sm8350-common/BoardConfigVendor.mk
-include vendor/sony/pdx215/BoardConfigVendor.mk
+-include vendor/sony/pdx215/BoardConfigVendor.mk
